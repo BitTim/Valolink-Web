@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.bittim.valolink",
+      "sha256_cert_fingerprints": [
+        "92:19:02:64:2D:14:FB:0D:DB:78:A8:34:A9:D3:63:E1:D5:C2:E9:D5:A2:C5:DA:AE:2D:9B:A0:F6:39:A4:BB:65"
+      ]
+    }
+  }
+]
